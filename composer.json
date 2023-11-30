@@ -1,5 +1,5 @@
 {
-    "name": "phpspec/prophecy-phpunit",
+    "name": "talentrydev/prophecy-phpunit",
     "description": "Integrating the Prophecy mocking library in PHPUnit test cases",
     "keywords": ["Phpunit", "Prophecy"],
     "homepage": "http://phpspec.net",
@@ -15,7 +15,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.3 || ^8",
-        "phpspec/prophecy": "^1.18",
+        "talentrydev/prophecy": "^1.17.1",
         "phpunit/phpunit":"^9.1 || ^10.1"
     },
     "autoload": {
